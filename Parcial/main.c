@@ -94,7 +94,7 @@ void subirVocales(char* cadena){
 
     while(cadena[i] != '\0'){
 
-        if(cadena[i] >= 'a' && cadena[i] <= 'z'){
+        if(cadena[i] == 'a' || cadena[i] == 'e'|| cadena[i] == 'i' || cadena[i] == 'o' || cadena[i] == 'u'){
 
             cadena[i] = toupper(cadena[i]);
         }
