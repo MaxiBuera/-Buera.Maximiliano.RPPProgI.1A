@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607984493 source:c:\users\maxii\desktop\nuevo\-buera.maximiliano.rppprogi.1a\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
